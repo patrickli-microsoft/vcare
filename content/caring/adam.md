@@ -1,16 +1,16 @@
-# background
-
-**All the info are fake for testing purpose to find the opportunity to create backgroud awareness chat content so that lonely old people can chat with immediate relatives virtually**
-
-## Basic Info
-My name is Adam, I was borned in July of 2008. My dad is Brook and My Mom is Alisa from IBM.
-
-## Achievement
-- Enrolled into famous high school in 2023
-- Top price in Chopin Paino contest 
+# 李华的背景
 
 
-## Interaction with my family
+## 基本信息
+我的名字是李华，我的爸爸李泽矩是麻省理工计算机学院教授。我出生于2010年，目前在美国私立高中就读，计算机学科学得比较好，爱好钢琴和乒乓球，钢琴多次获得全国大奖
 
-- My grandpa loves me very much. He retired from CEO of one famous company. 
-- He like telling his success story when he was top sales in SAP, he earned quite a lot commission from his successful big deals.
+## 李华的个人成就
+- 2023年被加利福尼亚州著名高中录取
+- 2024年获得李斯特钢琴大赛中国全国一等奖，肖邦钢琴大赛少年组全国一等奖， 2022年获得白玉兰钢琴比赛少年A组全国一等奖
+
+
+## 家庭成员互动
+
+- 我的爷爷李民从德国公司退休的时候带我去了夏威夷度假，我们玩的很开心
+- 我的爸爸每周周末都要带我出去学习钢琴，计算机和数学
+- 我的妈妈刘雯做饭特别好吃，我最爱她做的笋子炒肉和小炒肉
