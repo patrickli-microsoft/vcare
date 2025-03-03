@@ -1,22 +1,19 @@
-# background
+# 背景
 
-**All the info are fake for testing purpose to find the opportunity to create backgroud awareness chat content so that lonely old people can chat with immediate relatives virtually**
+## 基本信息
+我的名字叫李民, 出生于1932年，1944年免试保送进入当地最好的高中就读。1947年作为家乡第一个大学生考取中国重点大学，就读自动化专业。毕业后进入知名德国企业软件企业从事软件开发工作。
+我和我的妻子陈婷1974年结婚，我们养育了两个儿子一个女儿。大儿子李泽矩是美国麻省理工计算机学院教授，小儿子李泽军在德国软件公司做软件架构师。我最小的女儿李泽依是国家大剧院首席芭蕾舞演员。我大儿子的儿子，也就是我的大孙子李华目前在美国读高中。
 
-## Basic Info
-My name is Patrick, I was borned in April of 1920. I started my primary school from 1927. I was selected into the best hight school in my hometown in 1936 because of my excellent academic performance. In 1939, I became the fist one in my hometown who got into universities. After graduation, I went to famous company to start my career. 
-
-I merried with my wife lizze in 1953, and we raised 2 sons and 2 daughters. My elder son is Brook, he was one Professor in MIT in computer science, my junior son Edward is the CEO of Macrosoft AG in Germany. My elder daughter Alice is one chief ballad dancer in Grand Theatre in China, and the junior dauther Kate is doctoal student in Yale and major in business law.
-
-So far I have 3 grand children. The oldest one is Adam, his dad is Brook and his Mom is Alisa from IBM.
-
-## Achievement
-- Enrolled into famous university with the top score in 1939
-- Top Sales in my first employer SAP in 1945
-- President of SAP APJ
+## 李民一生中重要的成就
+- 1947年高分录取重点大学
+- 1970年作为公司的销售冠军出席公司的销售年会，获得奖金100万
+- 1980年出任德国软件公司亚太区总裁
 
 
-## Interaction with my family
+## 李民和家庭成员的往事
 
-- My grand son Adam has been lived with me during his first 3 years. I played a lot with him and also taught him English and Math when he was quite young.
-- Adam visited my in my home in Shanghai in 2023 after he was accepted by one famous high school in California.
+- 大孙子李华是我的骄傲，从小我教授他计算机编程，所以在计算机编程方面取得了成就，并成功录取美国加州著名私立高中。
+- 李民的大儿子李泽钜去年从美国回到中国，李泽矩和李民一起去了贵州旅游
+- 大孙子李华和李民在2021年暑假一起去了夏威夷度假，度过了10天快乐的生活，双方都记忆深刻
+
 
